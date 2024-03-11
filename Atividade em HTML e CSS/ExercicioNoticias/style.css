@@ -1,0 +1,39 @@
+body {
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content:center ;}
+
+.title {
+    color: #333;
+    font-size: 24px;
+}
+
+.author {
+    color: #666;
+    font-size: 14px;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    width: 800px;
+    background-color: #fff;
+    box-shadow:rgba(0, 0, 0, 0.1),0 0 10px 
+    }
+  
+
+.content {
+    color: #444;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    background-size: 100%;
+    width: 100%;
+    max-width: 800px;
+}
+
+
